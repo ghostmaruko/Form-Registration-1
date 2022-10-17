@@ -30,4 +30,4 @@ function collectDate(event) {
 
 var theForm = document.querySelector("#registerForm");
 
-theForm.addEventListener("submit", collectDate);
+theForm.addEventListener("submit", collectDate); 
